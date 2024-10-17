@@ -643,6 +643,7 @@
 		justify-content: center;
 		gap: 24px;
 		margin-bottom: 40px;
+		align-items: center;
 		@include media(s) {
 			flex-direction: column;
 		}
